@@ -1,0 +1,10 @@
+# 實作 1-1~1-13
+
+## 須配合
+- 24-從零開始用TypeScript開發專案 - 範例檔
+    - main.ts
+    - api/github.ts
+    - api/index.ts
+    - types/TypeApiResponse.ts
+    - composables/useFetchData.ts
+    - composables/useUiManager.ts
